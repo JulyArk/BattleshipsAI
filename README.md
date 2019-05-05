@@ -6,4 +6,4 @@ Based on: http://datagenetics.com/blog/december32011/index.html
 - Places boats in a probability based way, determined by some rules.
 - Uses probability to determine where the "enemy" boats are.
 # Visualisation:
-
+ https://youtu.be/E1IpajTARTU
