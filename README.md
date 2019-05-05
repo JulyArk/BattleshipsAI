@@ -7,3 +7,4 @@ Based on: http://datagenetics.com/blog/december32011/index.html
 - Uses probability to determine where the "enemy" boats are.
 # Visualisation:
  https://youtu.be/E1IpajTARTU
+On the left - AI places boats, guesses the location and sinks the ships.
